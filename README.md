@@ -1,6 +1,8 @@
 # Disaster-Relief-Routing-System
 Natural disasters like floods, earthquakes, and cyclones can disrupt roads and delay relief delivery. This project presents a **Disaster Relief Routing System** developed in C++ using advanced Data Structures and Algorithms (DSA) to optimize the distribution of essential supplies.
+
 The affected area is represented as a graph, where nodes are warehouses and shelters, and edges are roads with travel time, risk, and capacity. The system uses the **Min-Cost Max-Flow algorithm** to find routes that deliver maximum supplies with minimum time and risk. It also supports road closures and re-routing.
+
 By combining priority-based supply allocation with vehicle-level trip scheduling, the project improves disaster logistics planning and helps ensure faster, more accurate relief distribution. It can assist government agencies, NGOs, and rescue teams in making better decisions during crisis situations.
 
 ## Key Features
